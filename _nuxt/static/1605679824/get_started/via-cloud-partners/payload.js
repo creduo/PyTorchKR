@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/get_started/via-cloud-partners", {data:[{}],fetch:[],mutations:void 0});

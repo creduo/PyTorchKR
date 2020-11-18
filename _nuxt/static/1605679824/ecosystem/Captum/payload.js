@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ecosystem/Captum", {data:[],fetch:[],mutations:void 0});

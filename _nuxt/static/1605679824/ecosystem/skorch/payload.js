@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ecosystem/skorch", {data:[],fetch:[],mutations:void 0});

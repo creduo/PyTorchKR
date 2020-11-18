@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/get_started/previous-versions", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ecosystem/pytorch-geometric", {data:[],fetch:[],mutations:void 0});
